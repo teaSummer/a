@@ -5,14 +5,14 @@ current server node : sh3.neiwangyun.net
 Basic Tunnel Information
   username      : sh
   type          : anonymous
-  subdomain     : f0gsmxzhqeuvshsh3.neiwangyun.net
+  subdomain     : 0iie277evja4shsh3.neiwangyun.net
   remote_ip     : 121.206.161.0
   bandwidth     : 2 Mbps
   expire_time   : 2 hours
-  unid          : 30towlqrsnph7plgx8rnl...
+  unid          : l7rr3atyqv35cboexnmks...
 ----------------------------------------------------------
 Datetime Log
-  create time: 2023-12-06 21:56:20
+  create time: 2023-12-06 21:56:33
 ----------------------------------------------------------
 Local Server
   local server: 127.0.0.1:8000
@@ -20,8 +20,8 @@ Local Server
 Access to the Tunnel
   cname_http    : tunnel not support
   cname_https   : tunnel not support
-  http          : http://f0gsmxzhqeuvshsh3.neiwangyun.net
-  https         : https://f0gsmxzhqeuvshsh3.neiwangyun.net
-  ipport        : f0gsmxzhqeuvshsh3.neiwangyun.net:36871
+  http          : http://0iie277evja4shsh3.neiwangyun.net
+  https         : https://0iie277evja4shsh3.neiwangyun.net
+  ipport        : 0iie277evja4shsh3.neiwangyun.net:29920
 ----------------------------------------------------------
 Ctrl+C Exit Process
